@@ -1,0 +1,25 @@
+[{
+  "id": 1,
+    "name": "Aster Medicity",
+    "patientCount": 200,
+    "location": "kochi"  
+},
+  {
+    "id": 2,
+    "name": "Travancore Medicity Hospital",
+    "patientCount": 600,
+    "location": "Kollam"
+  },
+  {
+    "id": 3,
+    "name": "KIMS Hospital",
+    "patientCount": 700,
+    "location": "TVM"
+  },
+  {
+    "id": 4,
+    "name": "Medical Trust",
+    "patientCount": 400,
+    "location": "EKM"
+  }
+]
